@@ -1,6 +1,6 @@
 # vaccination_portal
 
-a vaccination portal
+a vaccination portal using Flutter and Firebase
 
 ## Getting Started
 
